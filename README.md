@@ -66,6 +66,17 @@ Clean Arquitecture:
   Se utilizo una parte de clean arquitectura para mejor estructura del proyecto.
   
   ## 4. Capturas
+  
+![1](https://github.com/JhonaOch/SHF_prueba/assets/34308770/37dd07c2-3163-4df4-8b19-5838c9a30c6c)
+![2](https://github.com/JhonaOch/SHF_prueba/assets/34308770/eab88d80-3641-4c9c-bef6-259964af7501)
+![3](https://github.com/JhonaOch/SHF_prueba/assets/34308770/d6e6f643-46c6-4292-ad2b-a9edc96de16a)
+![4](https://github.com/JhonaOch/SHF_prueba/assets/34308770/0efa49cd-0fc6-4311-a330-dc7a618c69f1)
+![5](https://github.com/JhonaOch/SHF_prueba/assets/34308770/7f534c6c-0045-4660-b77d-38905c3cc216)
+![6](https://github.com/JhonaOch/SHF_prueba/assets/34308770/aa8a1b01-c371-49b9-8951-878a5efc19db)
+![7](https://github.com/JhonaOch/SHF_prueba/assets/34308770/7e48f475-43d0-40a0-9b83-cc6c20f0d7ac)
+![8](https://github.com/JhonaOch/SHF_prueba/assets/34308770/debcabb8-a6a0-42a5-b262-335b079e6970)
+![9](https://github.com/JhonaOch/SHF_prueba/assets/34308770/8c27d688-a357-48d8-bea9-82573e3c82c8)
+![10](https://github.com/JhonaOch/SHF_prueba/assets/34308770/ddc51ad0-13b9-4358-9b14-7aec25943c18)
 
 
 
