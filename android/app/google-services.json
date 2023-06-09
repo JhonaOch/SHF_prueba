@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164168331131",
+    "project_id": "tours-c0f79",
+    "storage_bucket": "tours-c0f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164168331131:android:e1ecd00dd3f822e054d7de",
+        "android_client_info": {
+          "package_name": "com.example.prueba_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164168331131-namac96m5chk51okb01edtns2f0m6b25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prueba_application",
+            "certificate_hash": "beb82d82d42865203a84bb6ea432d8645dad693c"
+          }
+        },
+        {
+          "client_id": "164168331131-d7pr6m5l5nd1fpiu284eqq437qd634if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAIycn2RuM3lNT5d-RRTQjnU6IihREgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164168331131-d7pr6m5l5nd1fpiu284eqq437qd634if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
